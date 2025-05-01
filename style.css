@@ -1,0 +1,31 @@
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 15px 30px;
+    background-color: #ff4081;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  button:hover {
+    background-color: #e91e63;
+  }
+  
+  video {
+    margin-top: 30px;
+    width: 90%;
+    max-width: 600px;
+    border: 5px solid white;
+    border-radius: 10px;
+  }
+  
